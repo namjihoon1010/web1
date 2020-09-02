@@ -7,7 +7,7 @@
   <body>
     <ul>
     <h2>1. 동물</h2>
-  <li><h2><a href="index.htm2">강아지</a></li>
+  <h2><li><a href="index.htm2">강아지</a></li></h2>
     <h2><li>고양이</li></h2>
 </ul>
 
